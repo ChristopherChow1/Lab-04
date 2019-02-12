@@ -8,14 +8,20 @@ Tasks:
 1. Complete Animal.java
 2. Complete EquipmentTest.java
 3. Complete ZooTest.java
+4. Complete the equals() class in Animal.java
+5. Complete the equals() class in Equipment.java
 
 Estimated Time (minutes):
 1. 60
 2. 60
 3. 60
+4. 60
+5. 60
 
 Actual Time (minutes):
 1. 60
 2. 60
 3. 60
+4. 60
+5. 60
 */}
